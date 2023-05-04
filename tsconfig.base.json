@@ -18,8 +18,11 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "ui": [
-        "packages/ui/src/index.ts"
+      "@x/ui2": [
+        "./libs/ui2/src/index.ts"
+      ],
+      "@x/ui": [
+        "./packages/ui/src/index.ts"
       ]
     }
   },

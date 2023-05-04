@@ -1,13 +1,13 @@
-import { Ui } from 'ui';
+import { Ui2 } from '@x/ui2';
+
+import { Ui } from '@x/ui';
 
 export function Index() {
-  /*
-   * Replace the elements below with your own.
-   *
-   * Note: The corresponding styles are in the ./index.css file.
-   */
   return (
-    <Ui />
+    <>
+      <Ui2 />
+      <Ui />
+    </>
   );
 }
 
