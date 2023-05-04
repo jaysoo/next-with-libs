@@ -16,15 +16,7 @@
     ],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
-    "baseUrl": ".",
-    "paths": {
-      "@x/ui2": [
-        "./libs/ui2/src/index.ts"
-      ],
-      "@x/ui": [
-        "./packages/ui/src/index.ts"
-      ]
-    }
+    "baseUrl": "."
   },
   "exclude": [
     "node_modules",

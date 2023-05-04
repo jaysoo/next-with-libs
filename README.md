@@ -1,5 +1,6 @@
 # NextIntegrated
 
 ```
-npx nx serve demo
+cd packages/demo
+npx next build
 ```
