@@ -19,7 +19,7 @@
     "baseUrl": ".",
     "paths": {
       "ui": [
-        "libs/ui/src/index.ts"
+        "packages/ui/src/index.ts"
       ]
     }
   },
